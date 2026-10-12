@@ -3,4 +3,5 @@ pypdf
 sentence-transformers
 scikit-learn
 groq
+numpy
 python-dotenv
